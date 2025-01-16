@@ -1,0 +1,14 @@
+/Users/mac/LeetCodeProblems/LeetCodeProblem/bin/Debug/net8.0/LeetCodeProblem
+/Users/mac/LeetCodeProblems/LeetCodeProblem/bin/Debug/net8.0/LeetCodeProblem.deps.json
+/Users/mac/LeetCodeProblems/LeetCodeProblem/bin/Debug/net8.0/LeetCodeProblem.runtimeconfig.json
+/Users/mac/LeetCodeProblems/LeetCodeProblem/bin/Debug/net8.0/LeetCodeProblem.dll
+/Users/mac/LeetCodeProblems/LeetCodeProblem/bin/Debug/net8.0/LeetCodeProblem.pdb
+/Users/mac/LeetCodeProblems/LeetCodeProblem/obj/Debug/net8.0/LeetCodeProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/LeetCodeProblems/LeetCodeProblem/obj/Debug/net8.0/LeetCodeProblem.AssemblyInfoInputs.cache
+/Users/mac/LeetCodeProblems/LeetCodeProblem/obj/Debug/net8.0/LeetCodeProblem.AssemblyInfo.cs
+/Users/mac/LeetCodeProblems/LeetCodeProblem/obj/Debug/net8.0/LeetCodeProblem.csproj.CoreCompileInputs.cache
+/Users/mac/LeetCodeProblems/LeetCodeProblem/obj/Debug/net8.0/LeetCodeProblem.dll
+/Users/mac/LeetCodeProblems/LeetCodeProblem/obj/Debug/net8.0/refint/LeetCodeProblem.dll
+/Users/mac/LeetCodeProblems/LeetCodeProblem/obj/Debug/net8.0/LeetCodeProblem.pdb
+/Users/mac/LeetCodeProblems/LeetCodeProblem/obj/Debug/net8.0/LeetCodeProblem.genruntimeconfig.cache
+/Users/mac/LeetCodeProblems/LeetCodeProblem/obj/Debug/net8.0/ref/LeetCodeProblem.dll
